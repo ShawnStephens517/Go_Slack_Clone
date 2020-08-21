@@ -6,7 +6,7 @@ import Sidebar from "./components/Sidebar/Sidebar";
 function App() {
   return (
     <div className="app">
-      <h1>TSecLabs Communicator Stations</h1>
+      <h1>TSecLabs Community Chat</h1>
       {/* Header */}
       <Header />
       <div className="app__body">
